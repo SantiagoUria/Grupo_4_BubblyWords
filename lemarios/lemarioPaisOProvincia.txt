@@ -1,0 +1,404 @@
+abu dabi
+abuya
+accra
+adís abeba
+afganistán
+albania
+alemania
+amán
+andorra
+andorra la vieja
+angola
+ankara
+antananarivo
+antigua y barbuda
+apia
+arabia saudita
+argel
+argelia
+argentina
+armenia
+asjabad
+asmara
+astaná
+asunción
+atenas
+australia
+austria
+azerbaiyán
+bagdad
+bahamas
+bakú
+bamako
+bandar seri begawan
+bangkok
+bangladés
+bangui
+banjul
+barbados
+baréin
+basseterre
+beirut
+belgrado
+belice
+belmopán
+benín
+berlín
+berna
+bielorrusia
+birmania
+biskek
+bisáu
+bogotá
+bolivia
+bosnia-herzegovina
+botsuana
+brasil
+brasilia
+bratislava
+brazzaville
+bridgetown
+brunéi
+bruselas
+bucarest
+budapest
+buenos aires
+bulgaria
+burkina faso
+burundi
+bután
+buyumbura
+bélgica
+cabo verde
+camboya
+camerún
+canadá
+canberra
+caracas
+castries
+catamarca
+catar
+chaco
+chad
+chile
+china
+chipre
+chisináu
+chubut
+colombia
+comoras
+conakri
+congo
+copenhague
+corea del norte
+corea del sur
+corrientes
+costa de marfil
+costa rica
+croacia
+cuba
+córdoba
+daca
+dakar
+damasco
+dili
+dinamarca
+dodoma
+doha
+dominica
+dublín
+dusambé
+ecuador
+egipto
+el cairo
+el salvador
+emiratos árabes unidos
+entre ríos
+ereván
+eritrea
+eslovaquia
+eslovenia
+españa
+estados unidos
+estocolmo
+estonia
+esuatini
+etiopía
+filipinas
+finlandia
+fiyi
+formosa
+francia
+freetown
+funafuti
+gaborone
+gabón
+gambia
+georgetown
+georgia
+ghana
+granada
+grecia
+guatemala
+guinea
+guyana
+haití
+hanói
+harare
+helsinki
+honduras
+honiara
+hungría
+india
+indonesia
+irak
+irlanda
+irán
+islamabad
+islandia
+islas marshall
+islas salomón
+israel
+italia
+jamaica
+japón
+jartum
+jerusalén
+jerusalén este
+jordania
+jujuy
+kabul
+kampala
+katmandú
+kazajistán
+kenia
+kiev
+kigali
+kingston
+kingstown
+kinsasa
+kirguistán
+kiribati
+kosovo
+kuwait
+kuwait city
+la habana
+la pampa
+la rioja
+la valeta
+laos
+lesoto
+letonia
+liberia
+libia
+libreville
+liechtenstein
+lilongüe
+lima
+lisboa
+lituania
+liubliana
+lomé
+londres
+luanda
+lumpur
+lusaka
+luxemburgo
+líbano
+macedonia del norte
+madagascar
+madrid
+majuro
+malabo
+malaui
+maldivas
+malkuala
+malta
+malé
+malí
+managua
+manama
+manila
+maputo
+marruecos
+mascate
+maseru
+mauricio
+mauritania
+mbabane
+melekeok
+mendoza
+micronesia
+minsk
+misiones
+mogadiscio
+moldavia
+mongolia
+monrovia
+montenegro
+montevideo
+moroni
+moscú
+mozambique
+méxico
+mónaco
+naipyidó
+nairobi
+namibia
+nasáu
+nauru
+nepal
+neuquén
+niamey
+nicaragua
+nicosia
+nigeria
+nom pen
+noruega
+nuakchot
+nueva delhi
+nueva zelanda
+nukualofa
+níger
+omán
+oslo
+ottawa
+pakistán
+palaos
+palestina
+palikir
+panamá
+papúa nueva guinea
+paraguay
+paramaribo
+parís
+países bajos
+pekín
+perú
+pionyang
+podgorica
+polonia
+port louis
+port vila
+porto-novo
+portugal
+praga
+praia
+pretoria
+pristina
+puerto españa
+puerto moresby
+puerto príncipe
+quito
+rabat
+reikiavik
+reino unido
+república centroafricana
+república checa
+república democrática del congo
+república dominicana
+riad
+riga
+roma
+roseau
+ruanda
+rumania
+rusia
+río negro
+saint george
+saint john
+salta
+samoa
+san cristóbal y nieves
+san josé
+san juan
+san luis
+san marino
+san salvador
+san vicente y las granadinas
+santa cruz
+santa fe
+santa lucía
+santiago
+santiago del estero
+santo domingo
+santo tomé
+santo tomé y príncipe
+saná
+sarajevo
+senegal
+serbia
+seychelles
+seúl
+sierra leona
+singapur
+siria
+skopie
+sofía
+somalia
+sri jayawardenapura kotte
+sri lanka
+sucre
+sud
+sudán
+sudán del sur
+suecia
+suiza
+surinam
+suva
+tailandia
+taipéi
+taiwán
+tallin
+tanzania
+tarawa
+taskent
+tayikistán
+tegucigalpa
+teherán
+thimphu
+tierra del fuego
+tiflis
+timor oriental
+tirana
+togo
+tokio
+tonga
+trinidad y tobago
+trípoli
+tucumán
+turkmenistán
+turquía
+tuvalu
+túnez
+uagadugú
+ucrania
+uganda
+ulán bator
+uruguay
+uzbekistán
+vaduz
+vanuatu
+varsovia
+vaticano
+venezuela
+victoria
+viena
+vientián
+vietnam
+vilna
+washington
+wellington
+windhoek
+yakarta
+yamena
+yamusukro
+yaren
+yaundé
+yemen
+yibuti
+yuba
+zagreb
+zambia
+zimbabue
+ámsterdam
